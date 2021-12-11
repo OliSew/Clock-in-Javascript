@@ -1,0 +1,14 @@
+body
+{
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+  font-size: larger;
+  padding: 40px;
+  margin: 10px;
+  min-height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 600;
+  justify-content: center;
+}
